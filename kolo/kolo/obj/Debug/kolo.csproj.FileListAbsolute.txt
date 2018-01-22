@@ -1,0 +1,6 @@
+C:\Users\local\Desktop\kolo\kolo\bin\Debug\kolo.exe.config
+C:\Users\local\Desktop\kolo\kolo\obj\Debug\kolo.csprojResolveAssemblyReference.cache
+C:\Users\local\Desktop\kolo\kolo\bin\Debug\kolo.exe
+C:\Users\local\Desktop\kolo\kolo\bin\Debug\kolo.pdb
+C:\Users\local\Desktop\kolo\kolo\obj\Debug\kolo.exe
+C:\Users\local\Desktop\kolo\kolo\obj\Debug\kolo.pdb
